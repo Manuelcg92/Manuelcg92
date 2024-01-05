@@ -11,7 +11,7 @@ Desarrollo en python, con conocimientos de herramientas como SQL y Git/Github
 Conocimientos avanzados en ciencias
 Paquete office
 
--¿Aptitudes laborales?
+- ¿Aptitudes laborales?
 Experiencia gestionando equipos
 Organización y optimización del tiempo
 Trabajo bajo presión para alcanzar objetivos y plazos
