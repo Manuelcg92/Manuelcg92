@@ -45,4 +45,3 @@ Estoy abierto a nuevas oportunidades en desarrollo backend, listo para aprender 
 
 ¡Gracias por visitar mi perfil!
 
-¡Gracias por visitar mi perfil!
