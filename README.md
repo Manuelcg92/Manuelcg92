@@ -1,37 +1,48 @@
 🚧 Work In Progress...
 
-Tras finalizar la carrera de Ciencias y desarrollar pequeños programas que me facilitaron las prácticas universitarias, descubrí una gran afinidad por la programación. Esta pasión se consolidó gracias a:
+Tras finalizar la carrera de Ciencias y desarrollar pequeños programas que facilitaron mis prácticas universitarias, descubrí mi verdadera pasión: la programación. Esta vocación se consolidó gracias a:
 
-- Mi experiencia laboral liderando equipos y gestionando una empresa
-- La formación autodidacta enfocada al desarrollo back-end
-- El constante aprendizaje que sigo cultivando cada día
+- Experiencia laboral liderando equipos y gestionando una empresa  
+- Formación autodidacta enfocada en **desarrollo back-end**  
+- Aprendizaje constante y actualización continua de habilidades técnicas
 
-Actualmente, estoy enfocado en iniciar mi carrera profesional en el desarrollo de software, convencido de que la programación es mi vocación.
+Actualmente, estoy enfocado en iniciar mi carrera profesional como desarrollador **backend**, convencido de que puedo aportar valor desde el primer día.
 
-🎯 ¿Qué busco?
+---
 
-Mi primer empleo como desarrollador back-end Junior/Trainee.
+🎯 **Qué busco**
 
-💡 ¿Qué puedo aportar?
+Mi primer empleo como **Desarrollador Back-End Junior / Trainee**, en modalidad presencial, híbrida o remota.
 
-- Desarrollo en Python y Java
-- Frameworks: Django, Flask, Spring e Hibernate
-- Conocimientos en SQL, Git/GitHub y control de versiones
-- Metodologias agile: Scrum , uso de Jira
-- Bases sólidas en ciencias, lógica y resolución de problemas
-- Manejo del paquete Office
-- Enfoque en el aprendizaje continuo y la mejora constante
+---
 
-🧩 Aptitudes profesionales
+💡 **Qué puedo aportar**
 
-- Experiencia previa en gestión de equipos
-- Habilidades de organización y optimización del tiempo
-- Capacidad para trabajar bajo presión y cumplir plazos
-- Compromiso, puntualidad y responsabilidad
-- Actitud proactiva y pasión por seguir aprendiendo
+- Desarrollo backend en **Java** y **Python**  
+- Frameworks: **Spring, Spring Boot, Hibernate, Django, Flask**  
+- Conocimientos en **bases de datos relacionales (SQL)** y no relacionales (MongoDB)  
+- Control de versiones y colaboración: **Git, GitHub, GitLab**  
+- Gestión ágil de proyectos: **Scrum, Jira**  
+- Habilidades de análisis, lógica y resolución de problemas  
+- Manejo del **paquete Office**  
+- Actitud de **aprendizaje continuo** y mejora constante
 
-🚀 Próximos pasos
+---
 
-Estoy abierto a nuevas oportunidades, dispuesto a aprender y aportar desde el primer día.
+🧩 **Aptitudes profesionales**
+
+- Experiencia previa en gestión de equipos  
+- Organización y optimización del tiempo  
+- Capacidad para trabajar bajo presión y cumplir plazos  
+- Compromiso, puntualidad y responsabilidad  
+- Proactividad y pasión por aprender
+
+---
+
+🚀 **Próximos pasos**
+
+Estoy abierto a nuevas oportunidades en desarrollo backend, listo para aprender y contribuir desde el primer día.  
+
+¡Gracias por visitar mi perfil!
 
 ¡Gracias por visitar mi perfil!
